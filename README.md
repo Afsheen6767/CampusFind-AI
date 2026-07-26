@@ -6,7 +6,7 @@
 
 ## 🔗 Live Deployed App
 👉 **Live App Link:** [https://campusfind-ai.ai.studio](https://campusfind-ai.ai.studio)
-
+https://campus-find-ai-ptp5.vercel.app/
 ---
 
 ## 📌 Problem & Target Audience
