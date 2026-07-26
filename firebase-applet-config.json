@@ -1,0 +1,12 @@
+{
+ "projectId": "campusfind-ai-d85c9",
+  "appId":"1:836125179583:web:8d92b37c670258c3b5100a",
+  "apiKey":   "AIzaSyDOizeGai1eGa2DWWdubnCKFV9Xh6dRRHE",
+  "authDomain": "campusfind-ai-d85c9.firebaseapp.com", 
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "campusfind-ai-d85c9.firebasestorage.app",
+  "messagingSenderId": "836125179583",
+  "measurementId": "",
+  "oAuthClientId": "194474038604-7o2beikoc6g78u6mlfibsvbtbe5lv2ji.apps.googleusercontent.com",
+  "recaptchaSiteKey": ""
+}
